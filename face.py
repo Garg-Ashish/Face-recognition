@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 faceDetect=cv2.CascadeClassifier('haarcascade_frontalface_default.xml');
 cam=cv2.VideoCapture(0);
-// for loop that itrates over the each frame in the video
+# for loop that itrates over the each frame in the video
 while(True):
     ret,img=cam.read();
     gray=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
