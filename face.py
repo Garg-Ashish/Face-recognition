@@ -12,6 +12,7 @@ while(True):
         cv2.rectangle(img,(x,y),(x+w,y+h),(255,255,0),2)
         roi_gray=gray[y:y+h,x:x+w]
         roi_color = img[y:y+h,x:x+w]
+# Displays the image on the screen
     cv2.imshow("Face",img);
     if(cv2.waitKey(1)==ord('q')):
         break;
