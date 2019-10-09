@@ -1,6 +1,4 @@
- <h1 align="center">
- Face-recognition
-</h1>
+ <h1 align="center"> Face-recognition </h1>
 <center>
 [![SensioLabs Insight](https://img.shields.io/badge/package%20v1.0-Complete-brightgreen.svg)](https://github.com/DevelopedByAnurag/Face-recognition/)    <a href=''><img src='https://img.shields.io/badge/Donation-Payumoney-green.svg' /></a></div> 
 </center>
