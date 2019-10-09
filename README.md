@@ -5,4 +5,4 @@
  <img src="https://img.shields.io/badge/Donation-Payumoney-green.svg">
  </p>
 
-Creating a custom box on photo using OpenCv and Python this script works on the live algorithm where image is scanned using camera and a live box is genrated on the persons face
+It is an python script that creates a custom box on photo using OpenCv and Python this script works on the live algorithm where image is scanned using camera and a live box is genrated on the persons face
